@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/covid19_tracker/statewise'.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ANDROID PROJECTS/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ANDROID PROJECTS/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ANDROID PROJECTS/app/src/main/java/com/example/firstapp/Data.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ANDROID PROJECTS/app/src/main/java/com/example/firstapp/DataService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ANDROID PROJECTS/app/src/main/java/com/example/firstapp/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ANDROID PROJECTS/app/src/main/java/com/example/firstapp/datastream.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ANDROID PROJECTS/app/src/main/java/com/example/firstapp/statewise.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ANDROID PROJECTS/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/java/com/example/recyclerview/DataService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/java/com/example/recyclerview/Info.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/java/com/example/recyclerview/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/java/com/example/recyclerview/RecyclerAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/java/com/example/recyclerview/data.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/java/com/example/recyclerview/statewise.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/res/layout/cardview.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/res/values-night/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerView/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerViewExample/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerViewExample/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerViewExample/app/src/main/java/com/example/covid19_tracker/Datab.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerViewExample/app/src/main/java/com/example/recyclerviewexample/Adapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerViewExample/app/src/main/java/com/example/recyclerviewexample/DataService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerViewExample/app/src/main/java/com/example/recyclerviewexample/Datab.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerViewExample/app/src/main/java/com/example/recyclerviewexample/ListAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerViewExample/app/src/main/java/com/example/recyclerviewexample/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerViewExample/app/src/main/java/com/example/recyclerviewexample/data.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/RecyclerViewExample/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
